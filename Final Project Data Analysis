@@ -1,16 +1,1 @@
-HR Data Analysis Using Power BI
-Project Overview:
-This project explores employee data using Power BI to understand workforce distribution and employee attrition.
-Objectives:
-The analysis examines employee numbers, attrition, departments, job roles, overtime, job satisfaction, monthly income, age and work life balance.
-Tools Used:
-- Power BI
-- Microsoft Excel
-Key Findings:
-- The dataset contains 1,470 employees.
-- A total of 237 employees had left the organization.
-- The overall attrition proportion was approximately 16.12%.
-- Laboratory Technicians had the highest number of employee departures.
-- Work life balance level 3 had the highest number of employee departures.
-Conclusion:
-The project provides an overview of employee data and attrition patterns using Power BI visualizations.
+
