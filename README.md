@@ -1,18 +1,18 @@
-# Data-Analytics-WiT
-Power BI and SQL Project
+Data Analytics Portfolio
 
-Project Overview:
-This project explores employee data using Power BI to understand workforce distribution and employee attrition.
-Objectives:
-The analysis examines employee numbers, attrition, departments, job roles, overtime, job satisfaction, monthly income, age and work life balance.
-Tools Used:
-- Power BI
-- Microsoft Excel
-Key Findings:
-- The dataset contains 1,470 employees.
-- A total of 237 employees had left the organization.
-- The overall attrition proportion was approximately 16.12%.
-- Laboratory Technicians had the highest number of employee departures.
-- Work life balance level 3 had the highest number of employee departures.
-Conclusion:
-The project provides an overview of employee data and attrition patterns using Power BI visualizations.
+Welcome to my final data analytics portfolio. This repository contains projects completed as I develop my skills in data analysis and visualization.
+Projects
+1. HR Data Analysis
+Tools: Power BI, Microsoft Excel
+This project explores employee data, workforce distribution and employee attrition using Power BI visualizations.
+2. SQL Data Analysis
+Tool: SQL Server (SSMS)
+This project contains SQL queries used to analyze sales, customer subscriptions and employee data.
+Skills learnt:
+- SQL querying
+- Data cleaning and preparation
+- Data analysis
+- Data visualization
+- Power BI reporting
+About Me:
+I am developing my data analytics skills through practical projects involving data preparation, analysis and visualization.
